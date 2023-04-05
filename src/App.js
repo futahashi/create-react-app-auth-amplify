@@ -13,9 +13,8 @@ class App extends Component {
         <AmplifySignOut />
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <h1>Sample App</h1>
+          <p>This is an example to learn Amplify React!</p>
           <a
             className="App-link"
             href="https://reactjs.org"
